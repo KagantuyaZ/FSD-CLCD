@@ -1,0 +1,173 @@
+2024-02-28 10:07:08,686 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:07:08,686 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:07:08,691 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:08:54,734 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:08:54,734 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:08:54,734 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:08:58,568 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:09:00,150 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:09:00,150 - __main__ - INFO - Test Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x
+2024-02-28 10:09:33,646 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:09:33,646 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:09:33,646 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:09:37,626 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:09:38,772 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:09:38,773 - __main__ - INFO - Test Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x
+2024-02-28 10:10:06,019 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:10:06,021 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:10:06,021 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:10:09,606 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:10:11,031 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:10:11,031 - __main__ - INFO - Test Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x
+2024-02-28 10:10:35,325 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:10:35,325 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:10:35,325 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:10:39,453 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:10:40,667 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:10:40,668 - __main__ - INFO - Test Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x
+2024-02-28 10:11:09,392 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:11:09,392 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:11:09,392 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:11:12,822 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:11:13,930 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:11:13,930 - __main__ - INFO - Test Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x
+2024-02-28 10:11:27,924 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:11:27,925 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:11:27,925 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:11:31,416 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:11:32,379 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:11:32,379 - __main__ - INFO - Test Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x
+2024-02-28 10:13:19,619 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:13:19,619 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:13:19,620 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:13:23,231 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:13:24,369 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:13:24,369 - __main__ - INFO - Test Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x
+2024-02-28 10:13:52,884 - __main__ - INFO - ***** Result *****
+2024-02-28 10:13:52,884 - __main__ - INFO - {'mode': 'java-python', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:13:52,885 - __main__ - INFO - {'mode': 'java-cpp', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:13:52,885 - __main__ - INFO - {'mode': 'java-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:13:52,885 - __main__ - INFO - {'mode': 'python-cpp', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:13:52,885 - __main__ - INFO - {'mode': 'python-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:13:52,885 - __main__ - INFO - {'mode': 'cpp-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:14:37,667 - __main__ - INFO - ***** Result *****
+2024-02-28 10:14:37,667 - __main__ - INFO - {'mode': 'java-python', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:14:37,667 - __main__ - INFO - {'mode': 'java-cpp', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:14:37,668 - __main__ - INFO - {'mode': 'java-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:14:37,668 - __main__ - INFO - {'mode': 'python-cpp', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:14:37,668 - __main__ - INFO - {'mode': 'python-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:14:37,668 - __main__ - INFO - {'mode': 'cpp-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:20,569 - __main__ - INFO - ***** Result *****
+2024-02-28 10:15:20,570 - __main__ - INFO - {'mode': 'java-python', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:20,570 - __main__ - INFO - {'mode': 'java-cpp', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:20,570 - __main__ - INFO - {'mode': 'java-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:20,571 - __main__ - INFO - {'mode': 'python-cpp', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:20,571 - __main__ - INFO - {'mode': 'python-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:20,571 - __main__ - INFO - {'mode': 'cpp-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:59,426 - __main__ - INFO - ***** Result *****
+2024-02-28 10:15:59,426 - __main__ - INFO - {'mode': 'java-python', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:59,427 - __main__ - INFO - {'mode': 'java-cpp', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:59,427 - __main__ - INFO - {'mode': 'java-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:59,427 - __main__ - INFO - {'mode': 'python-cpp', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:59,427 - __main__ - INFO - {'mode': 'python-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:15:59,427 - __main__ - INFO - {'mode': 'cpp-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:16:53,908 - __main__ - INFO - ***** Result *****
+2024-02-28 10:16:53,909 - __main__ - INFO - {'mode': 'java-python', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:16:53,910 - __main__ - INFO - {'mode': 'java-cpp', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:16:53,910 - __main__ - INFO - {'mode': 'java-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:16:53,910 - __main__ - INFO - {'mode': 'python-cpp', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:16:53,910 - __main__ - INFO - {'mode': 'python-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:16:53,910 - __main__ - INFO - {'mode': 'cpp-cs', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:16:53,910 - __main__ - INFO - {'java-python': 0.5, 'java-cpp': 0.5, 'java-cs': 0.5, 'python-cpp': 0.5, 'python-cs': 0.5, 'cpp-cs': 0.5}
+2024-02-28 10:16:53,911 - __main__ - INFO - {'java-python': 1.0, 'java-cpp': 1.0, 'java-cs': 1.0, 'python-cpp': 1.0, 'python-cs': 1.0, 'cpp-cs': 1.0}
+2024-02-28 10:16:53,911 - __main__ - INFO - {'java-python': 0.66666667, 'java-cpp': 0.66666667, 'java-cs': 0.66666667, 'python-cpp': 0.66666667, 'python-cs': 0.66666667, 'cpp-cs': 0.66666667}
+2024-02-28 10:22:01,434 - __main__ - INFO - ***** Total Result *****
+2024-02-28 10:22:01,434 - __main__ - INFO - {'mode': 'fullmode', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:23:14,222 - __main__ - INFO - ***** Total Result *****
+2024-02-28 10:23:14,222 - __main__ - INFO - {'mode': 'fullmode', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:24:49,488 - __main__ - INFO - ***** Total Result *****
+2024-02-28 10:24:49,488 - __main__ - INFO - {'mode': 'fullmode', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:25:38,060 - __main__ - INFO - ***** Total Result *****
+2024-02-28 10:25:38,060 - __main__ - INFO - {'mode': 'fullmode', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:31:11,479 - __main__ - INFO - ***** Total Result *****
+2024-02-28 10:31:11,480 - __main__ - INFO - {'mode': 'fullmode', 'precision': 0.5, 'recall': 1.0, 'F1': 0.6666666666666666, 'threshold': 0.01}
+2024-02-28 10:31:11,480 - __main__ - INFO - Precision:0.5
+2024-02-28 10:31:11,480 - __main__ - INFO - recall:1
+2024-02-28 10:31:11,480 - __main__ - INFO - F1:0.666667
+2024-02-28 10:35:37,256 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:35:37,256 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:35:37,257 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:35:41,282 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:37:17,868 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:37:17,868 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:37:17,869 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:37:21,358 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:38:29,023 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:38:29,025 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:38:29,025 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:38:32,639 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:38:57,156 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:38:57,156 - __main__ - INFO - Path:d:\Data\FSD-CLCD/jsondata/pair_train.jsonl
+2024-02-28 10:38:57,156 - __main__ - INFO - Model Path:d:\Data\FSD-CLCD\saved_model\mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:39:00,995 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:39:41,152 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:39:41,153 - __main__ - INFO - Path:./jsondata/pair_train.jsonl
+2024-02-28 10:39:41,153 - __main__ - INFO - Model Path:./saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:39:44,951 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:42:18,365 - __main__ - INFO - Namespace(all=False, aug_mode='Delmode', aug_multiply=1, aug_para=10, aug_ratio=0.4, batch_size=24, cuda=True, data_mode='more_data', eval=False, eval_mode=False, foredge=True, graphmode='astandnext', ifedge=True, lr=0.001, maxtree=400, mode='java-python', model_path='mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt', num_epochs=30, num_layers=4, parse_mode='graph_mode', test_mode=True, threshold=0, train_mode=False, whileedge=True)
+2024-02-28 10:42:18,366 - __main__ - INFO - Path:./jsondata/pair_train.jsonl
+2024-02-28 10:42:18,366 - __main__ - INFO - Model Path:./saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:42:22,105 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:42:23,349 - __main__ - INFO - ***** Running model initialization *****
+2024-02-28 10:42:23,349 - __main__ - INFO - Test Model Path:d:\Data\FSD-CLCD/saved_model/mix-con_loss_4_2_graph_mode_without-sib-next-pruning-less-con_loss_only-0.4-x.pt
+2024-02-28 10:43:10,329 - __main__ - INFO - ***** Result *****
+2024-02-28 10:43:10,330 - __main__ - INFO - {'mode': 'java-python', 'precision': 0.8858695652173914, 'recall': 0.9532163742690059, 'F1': 0.9183098591549296, 'threshold': 0.69}
+2024-02-28 10:43:10,330 - __main__ - INFO - {'mode': 'java-cpp', 'precision': 0.920863309352518, 'recall': 0.9846153846153847, 'F1': 0.9516728624535317, 'threshold': 0.75}
+2024-02-28 10:43:10,330 - __main__ - INFO - {'mode': 'java-cs', 'precision': 0.9715909090909091, 'recall': 0.9771428571428571, 'F1': 0.9743589743589745, 'threshold': 0.74}
+2024-02-28 10:43:10,330 - __main__ - INFO - {'mode': 'python-cpp', 'precision': 0.9276018099547512, 'recall': 0.9534883720930233, 'F1': 0.9403669724770641, 'threshold': 0.69}
+2024-02-28 10:43:10,330 - __main__ - INFO - {'mode': 'python-cs', 'precision': 0.9852941176470589, 'recall': 0.9757281553398058, 'F1': 0.9804878048780488, 'threshold': 0.77}
+2024-02-28 10:43:10,331 - __main__ - INFO - {'mode': 'cpp-cs', 'precision': 0.9393939393939394, 'recall': 0.9789473684210527, 'F1': 0.9587628865979383, 'threshold': 0.71}
+2024-02-28 10:43:44,209 - __main__ - INFO - ***** Result *****
+2024-02-28 10:43:44,210 - __main__ - INFO - {'mode': 'java-python', 'precision': 0.949438202247191, 'recall': 0.9883040935672515, 'F1': 0.9684813753581663, 'threshold': 0.63}
+2024-02-28 10:43:44,210 - __main__ - INFO - {'mode': 'java-cpp', 'precision': 0.87248322147651, 'recall': 1.0, 'F1': 0.931899641577061, 'threshold': 0.75}
+2024-02-28 10:43:44,210 - __main__ - INFO - {'mode': 'java-cs', 'precision': 0.9668508287292817, 'recall': 1.0, 'F1': 0.9831460674157304, 'threshold': 0.67}
+2024-02-28 10:43:44,211 - __main__ - INFO - {'mode': 'python-cpp', 'precision': 0.9579439252336449, 'recall': 0.9534883720930233, 'F1': 0.9557109557109558, 'threshold': 0.67}
+2024-02-28 10:43:44,211 - __main__ - INFO - {'mode': 'python-cs', 'precision': 0.9534883720930233, 'recall': 0.9951456310679612, 'F1': 0.9738717339667458, 'threshold': 0.7}
+2024-02-28 10:43:44,211 - __main__ - INFO - {'mode': 'cpp-cs', 'precision': 0.9842931937172775, 'recall': 0.9894736842105263, 'F1': 0.9868766404199475, 'threshold': 0.73}
+2024-02-28 10:44:41,246 - __main__ - INFO - ***** Result *****
+2024-02-28 10:44:41,246 - __main__ - INFO - {'mode': 'java-python', 'precision': 0.9152542372881356, 'recall': 0.9473684210526315, 'F1': 0.9310344827586206, 'threshold': 0.71}
+2024-02-28 10:44:41,246 - __main__ - INFO - {'mode': 'java-cpp', 'precision': 0.9846153846153847, 'recall': 0.9846153846153847, 'F1': 0.9846153846153847, 'threshold': 0.75}
+2024-02-28 10:44:41,247 - __main__ - INFO - {'mode': 'java-cs', 'precision': 0.9453551912568307, 'recall': 0.9885714285714285, 'F1': 0.9664804469273743, 'threshold': 0.71}
+2024-02-28 10:44:41,247 - __main__ - INFO - {'mode': 'python-cpp', 'precision': 0.9846153846153847, 'recall': 0.8930232558139535, 'F1': 0.9365853658536586, 'threshold': 0.76}
+2024-02-28 10:44:41,247 - __main__ - INFO - {'mode': 'python-cs', 'precision': 0.9348837209302325, 'recall': 0.9757281553398058, 'F1': 0.9548693586698337, 'threshold': 0.74}
+2024-02-28 10:44:41,247 - __main__ - INFO - {'mode': 'cpp-cs', 'precision': 0.9346733668341709, 'recall': 0.9789473684210527, 'F1': 0.9562982005141388, 'threshold': 0.7}
+2024-02-28 10:46:34,991 - __main__ - INFO - ***** Result *****
+2024-02-28 10:46:34,992 - __main__ - INFO - {'mode': 'java-python', 'precision': 0.8932584269662921, 'recall': 0.9298245614035088, 'F1': 0.9111747851002865, 'threshold': 0.73}
+2024-02-28 10:46:34,993 - __main__ - INFO - {'mode': 'java-cpp', 'precision': 0.9694656488549618, 'recall': 0.9769230769230769, 'F1': 0.9731800766283524, 'threshold': 0.77}
+2024-02-28 10:46:34,994 - __main__ - INFO - {'mode': 'java-cs', 'precision': 0.9661016949152542, 'recall': 0.9771428571428571, 'F1': 0.9715909090909091, 'threshold': 0.73}
+2024-02-28 10:46:34,994 - __main__ - INFO - {'mode': 'python-cpp', 'precision': 0.9192825112107623, 'recall': 0.9534883720930233, 'F1': 0.9360730593607306, 'threshold': 0.69}
+2024-02-28 10:46:34,995 - __main__ - INFO - {'mode': 'python-cs', 'precision': 0.9856459330143541, 'recall': 1.0, 'F1': 0.9927710843373494, 'threshold': 0.74}
+2024-02-28 10:46:34,996 - __main__ - INFO - {'mode': 'cpp-cs', 'precision': 0.979381443298969, 'recall': 1.0, 'F1': 0.9895833333333333, 'threshold': 0.71}
+2024-02-28 10:49:54,531 - __main__ - INFO - ***** Result *****
+2024-02-28 10:49:54,531 - __main__ - INFO - {'mode': 'java-python', 'precision': 0.9364161849710982, 'recall': 0.9473684210526315, 'F1': 0.941860465116279, 'threshold': 0.72}
+2024-02-28 10:49:54,532 - __main__ - INFO - {'mode': 'java-cpp', 'precision': 0.948905109489051, 'recall': 1.0, 'F1': 0.9737827715355805, 'threshold': 0.72}
+2024-02-28 10:49:54,532 - __main__ - INFO - {'mode': 'java-cs', 'precision': 0.9408602150537635, 'recall': 1.0, 'F1': 0.9695290858725762, 'threshold': 0.66}
+2024-02-28 10:49:54,533 - __main__ - INFO - {'mode': 'python-cpp', 'precision': 0.9099099099099099, 'recall': 0.9395348837209302, 'F1': 0.9244851258581235, 'threshold': 0.68}
+2024-02-28 10:49:54,534 - __main__ - INFO - {'mode': 'python-cs', 'precision': 0.9711538461538461, 'recall': 0.9805825242718447, 'F1': 0.9758454106280192, 'threshold': 0.75}
+2024-02-28 10:49:54,536 - __main__ - INFO - {'mode': 'cpp-cs', 'precision': 0.9545454545454546, 'recall': 0.9947368421052631, 'F1': 0.9742268041237114, 'threshold': 0.71}
+2024-02-28 10:49:54,536 - __main__ - INFO - {'java-python': 0.91604732, 'java-cpp': 0.93926653, 'java-cs': 0.95815177, 'python-cpp': 0.93987071, 'python-cs': 0.9660932, 'cpp-cs': 0.95845748}
+2024-02-28 10:49:54,537 - __main__ - INFO - {'java-python': 0.95321637, 'java-cpp': 0.98923077, 'java-cs': 0.98857143, 'python-cpp': 0.93860465, 'python-cs': 0.98543689, 'cpp-cs': 0.98842105}
+2024-02-28 10:49:54,538 - __main__ - INFO - {'java-python': 0.93417219, 'java-cpp': 0.96303015, 'java-cs': 0.9730211, 'python-cpp': 0.9386443, 'python-cs': 0.97556908, 'cpp-cs': 0.97314957}
+2024-02-28 10:53:37,458 - __main__ - INFO - ***** Total Result *****
+2024-02-28 10:53:37,459 - __main__ - INFO - {'mode': 'fullmode', 'precision': 0.9661654135338346, 'recall': 0.9759493670886076, 'F1': 0.9710327455919395, 'threshold': 0.65}
+2024-02-28 10:58:43,741 - __main__ - INFO - ***** Total Result *****
+2024-02-28 10:58:43,741 - __main__ - INFO - {'mode': 'fullmode', 'precision': 0.9637952559300874, 'recall': 0.9772151898734177, 'F1': 0.9704588309239472, 'threshold': 0.63}
+2024-02-28 11:03:00,627 - __main__ - INFO - ***** Total Result *****
+2024-02-28 11:03:00,627 - __main__ - INFO - {'mode': 'fullmode', 'precision': 0.9562807881773399, 'recall': 0.9829113924050633, 'F1': 0.9694132334581773, 'threshold': 0.6}
+2024-02-28 11:06:05,445 - __main__ - INFO - ***** Total Result *****
+2024-02-28 11:06:05,445 - __main__ - INFO - {'mode': 'fullmode', 'precision': 0.9734513274336283, 'recall': 0.9746835443037974, 'F1': 0.974067046173308, 'threshold': 0.63}
+2024-02-28 11:09:50,885 - __main__ - INFO - ***** Total Result *****
+2024-02-28 11:09:50,886 - __main__ - INFO - {'mode': 'fullmode', 'precision': 0.9652173913043478, 'recall': 0.9835443037974684, 'F1': 0.9742946708463949, 'threshold': 0.62}
+2024-02-28 11:09:50,887 - __main__ - INFO - Precision:0.964982
+2024-02-28 11:09:50,888 - __main__ - INFO - recall:0.978861
+2024-02-28 11:09:50,888 - __main__ - INFO - F1:0.971853
