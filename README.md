@@ -7,11 +7,14 @@ The _saved_var_ folder is used to store preprocessed dataset variables, thereby 
 
 The _log_ folder is used to save the logs generated during the runtime process.
 
-The code for data preprocessing is currently not publicly available.
+The code for data preprocessing is currently not publicly available. If needed, please contact us by Flsrage@gmail.com
 
 To get the result in paper, run _main.py_
 
 
-environment
+Environment
+
 pytorch 2.1.0
+
 pyg 2.5.0
+
